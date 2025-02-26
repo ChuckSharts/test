@@ -1079,10 +1079,7 @@
     "Y",
     "Z"
   ],
-  "OtherAssetsFailedToAccess": [
-    "/Game/ITR/BPs/Items/BPA_BaseItem",
-    "/Game/ITR/BPs/Game/Components/C_ImpactSounds"
-  ],
+  "OtherAssetsFailedToAccess": [],
   "LegacyFileVersion": -7,
   "DataResourceVersion": "Invalid",
   "DataResources": [],
